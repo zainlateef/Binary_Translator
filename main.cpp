@@ -1013,31 +1013,3 @@ int main(int argc, char *argv[])
     
     return 0;
 }
-
-
-/*
- for(int i=0; i<9; i++)   
- {
- for(int j=0; j<columns; j++) 
- {
- std::cout << data_array[i][j]  << "  ";
- }
- std::cout << std::endl;
- }
- }
- 
- 
- 
- 
- 
- //Disassembly Complete
- 
- 
- int swag;
- for(;;)
- {
- 
- std::cin>>swag;
- std::cout<<"Binary:"<<ot[swag].binary<<"\nInstruction:"<<ot[swag].instruction<<"\nCount:"<<ot[swag].PC<<"\nv1:"<<ot[swag].v1<<"\nv2:"<<ot[swag].v2<<"\nv3:"<<ot[swag].v3<<"\n";
- }
- */
